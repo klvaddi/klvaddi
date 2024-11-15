@@ -1,4 +1,8 @@
 ## Hi there 👋
+- 🎓 I am a recent graduate from the University of Central Florida
+- 👨‍💻 Currently applying for software engineer jobs and working on personal projects
+- 🧠 Always learning and sharpening my skills
+- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lokesh-vaddi/) or reach out to me at klvaddi@gmail.com
 
 <!--
 **klvaddi/klvaddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
