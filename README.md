@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🎓 I am a recent graduate from the University of Central Florida
-- 👨‍💻 Currently applying for software engineer jobs and working on personal projects
+- 👨‍💻 Currently working on personal projects and applying for jobs/cs master's programs
 - 🧠 Always looking to learn and sharpen my skills
 - 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lokesh-vaddi/) or reach out to me at klvaddi@gmail.com
 
